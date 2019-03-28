@@ -1,0 +1,159 @@
+%# -*- coding: utf-8-unix -*-
+%%==================================================
+%% chapter01.tex for SJTU Master Thesis
+%%==================================================
+
+%\bibliographystyle{sjtu2}%[此处用于每章都生产参考文献]
+\chapter{绪论}
+\label{chap:intro}
+
+\section{研究背景}
+
+\emph{之后加入对期权和期货定义的介绍。}
+
+期货和期权等衍生品是金融市场和商品市场上风险管理的重要工具。
+对于资产管理机构，他们可以使用金融衍生品来管理自身的beta暴露，控制系统性风险；对于实体企业，他们也可以通过买卖商品衍生品，降低由于原材料或产成品价格波动过大而带来的经营风险。
+期货作为一种线性资产，其价格变动与标的价格变动呈线性关系。
+实际操作中，企业可以根据未来风险的方向，按照一个套期保值比例，在期货市场上买入或卖出期货合约。原理简单、操作方便是期货的优势。
+然而，使用期货进行风险管理也存在一些问题。首先，期货为保证金交易，其杠杆比率较低，因此对资金占用较高，会给企业带来较高的机会成本。更重要的是，期货的线性特性使对冲者在规避了可能的损失的同时，也放弃了未来潜在的收益。\cite{Meta_CN}
+
+与期货相比，期权有着独有的优势，可以有效地帮助企业解决使用期货进行风险管理时的问题。若以买入期权的方式进行对冲，则对冲者只需在期初支付一定量的期权费，在对冲期间无需关注保证金账户。并且以期权费衡量的杠杆比率也较高，用较少的资金就可以实现和期货相同的对冲头寸数量。
+同时，这一对冲方式风险有限（损失全部的期权费），在价格有利变动时也可以保留获取收益的能力。因此，相比之下，期权是一种更好的对冲工具。
+
+根据交易方式的不同，衍生品又可以分为场内衍生品（Exchange-Traded Derivatives）和场外衍生品（Over-The-Counter Derivatives）。场内衍生品又称交易所衍生品，这一类衍生品由交易双方通过交易所以竞价的方式完成交易；场外衍生品又称柜台交易衍生品，这一类衍生品由交易双方直接或通过共同对手方（Central Conterparty）进行交易和结算。与场内市场相比，场外市场通常规模更大。张玉红（2006）指出，从上世纪90年代开始，美国的场外衍生品市场的增长速度就已明显高于场内市场。同时，由于场外衍生品市场可以为企业提供特殊定制的风险管理产品，而场内市场提供的是标准化的合约。因此，场外市场和场内市场在功能上并不完全同质化。斯文（2012）通过对美国的场外衍生品市场数据进行实证分析发现，场外衍生品市场和场内市场更多地呈现出替代关系。近年来，我国场外衍生品市场发展迅猛。根据中国证券业协会的数据，截至2018年7月31日，我国场外衍生品的初始名义本金累计3.27万亿元，存量2973.54亿元。
+
+期权这一衍生品相比于期货，涉及到更多维度的变量，企业对其的定制化需求也就更高。因此，相比场内期权市场，我国的场外期权市场更为活跃。目前我国场内市场中，商品期权有白糖、棉花、豆粕、玉米、铜和天然橡胶六种，金融期权有上证50ETF期权一种；而场外市场中， 我国场外期权的交易商为证券公司和期货公司。对于这些交易商来说，他们是期权的提供 者，一般处于净卖出期权的位置。因此，他们面临着两个很实际的问题：一是如 何通过场内市场复制期权，对冲自身暴露的期权头寸；二是如何根据对冲的成本 对卖出的期权进行定价，以在覆盖自身对冲成本的前提下提供一个更有竞争力的 价格。 我国期权市场仍处于发展阶段，与成熟市场还有较大差距。场内市场期权品 种较少，无法和品种丰富的场外市场匹配，这也给上文提到的两个问题的解决增 加了难度。由于缺少场内非线性的工具，交易商只能够通过使用期货或现货等非 线性资产来进行 Delta 上的动态对冲，如何采取恰当的 Delta 对冲策略，以获得 最好的对冲效果，是一个值得探讨的问题。同时，由于没有场内的数据，场外期 权交易商缺少定价时的波动率参考，如何根据 Delta 对冲策略，结合面临的对冲 成本，来对期权进行定价，也是值得研究的问题。
+
+
+
+\subsection{准备工作}
+\label{sec:requirements}
+
+要使用这个模板撰写学位论文，需要在\emph{TeX系统}、\emph{TeX技能}上有所准备。
+
+\begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt]
+	\item {\TeX}系统：所使用的{\TeX}系统要支持 \XeTeX 引擎，且带有ctex 2.x宏包，以2015年的\emph{完整}TeXLive、MacTeX发行版为佳。
+	\item TeX技能：尽管提供了对模板的必要说明，但这不是一份“ \LaTeX 入门文档”。在使用前请先通读其他入门文档。
+	\item 针对Windows用户的额外需求：学位论文模本分别使用git和GNUMake进行版本控制和构建，建议从Cygwin\footnote{\url{http://cygwin.com}}安装这两个工具。
+\end{itemize}
+
+\subsection{模板选项}
+\label{sec:thesisoption}
+
+sjtuthesis提供了一些常用选项，在thesis.tex在导入sjtuthesis模板类时，可以组合使用。
+这些选项包括：
+
+\begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt]
+	\item 学位类型：bachelor(学位)、master(硕士)、doctor(博士)，是必选项。
+	\item 中文字体：fandol(Fandol 开源字体)、windows(Windows 系统下的中文字体)、mac(macOS 系统下的华文字体)、ubuntu(Ubuntu 系统下的文泉驿和文鼎字体)、adobe(Adobe 公司的中文字体)、founder(方正公司的中文字体)，默认根据操作系统自动配置。
+	\item 英文模版：使用english选项启用英文模版。
+	\item 盲审选项：使用review选项后，论文作者、学号、导师姓名、致谢、发表论文和参与项目将被隐去。
+\end{itemize}
+
+\subsection{编译模板}
+\label{sec:process}
+
+模板默认使用GNUMake构建，GNUMake将调用latemk工具自动完成模板多轮编译：
+
+\begin{lstlisting}[basicstyle=\small\ttfamily, caption={编译模板}, numbers=none]
+make clean thesis.pdf
+\end{lstlisting}
+
+若需要生成包含“原创性声明扫描件”的学位论文文档，请将扫描件保存为statement.pdf，然后调用make生成submit.pdf。
+
+\begin{lstlisting}[basicstyle=\small\ttfamily, caption={生成用于提交的学位论文}, numbers=none]
+make clean submit.pdf
+\end{lstlisting}
+
+编译失败时，可以尝试手动逐次编译，定位故障。
+
+\begin{lstlisting}[basicstyle=\small\ttfamily, caption={手动逐次编译}, numbers=none]
+xelatex -no-pdf thesis
+biber --debug thesis
+xelatex thesis
+xelatex thesis
+\end{lstlisting}
+
+\subsection{模板文件布局}
+\label{sec:layout}
+
+\begin{lstlisting}[basicstyle=\small\ttfamily,caption={模板文件布局},label=layout,float,numbers=none]
+├── LICENSE
+├── Makefile
+├── README.md
+├── bib
+│   ├── chap1.bib
+│   └── chap2.bib
+├── bst
+│   └── GBT7714-2005NLang.bst
+├── figure
+│   ├── chap2
+│   │   ├── sjtulogo.eps
+│   │   ├── sjtulogo.jpg
+│   │   ├── sjtulogo.pdf
+│   │   └── sjtulogo.png
+│   └── sjtubanner.png
+├── sjtuthesis.cfg
+├── sjtuthesis.cls
+├── statement.pdf
+├── submit.pdf
+├── tex
+│   ├── abstract.tex
+│   ├── ack.tex
+│   ├── app_cjk.tex
+│   ├── app_eq.tex
+│   ├── app_log.tex
+│   ├── chapter01.tex
+│   ├── chapter02.tex
+│   ├── chapter03.tex
+│   ├── conclusion.tex
+│   ├── id.tex
+│   ├── patents.tex
+│   ├── projects.tex
+│   ├── pub.tex
+│   └── symbol.tex
+└── thesis.tex
+\end{lstlisting}
+
+本节介绍学位论文模板中木要文件和目录的功能。
+
+\subsubsection{格式控制文件}
+\label{sec:format}
+
+格式控制文件控制着论文的表现形式，包括以下几个文件：
+sjtuthesis.cfg, sjtuthesis.cls和GBT7714-2005NLang.bst。
+其中，“cfg”和“cls”控制论文主体格式，“bst”控制参考文献条目的格式，
+
+\subsubsection{主控文件thesis.tex}
+\label{sec:thesistex}
+
+主控文件thesis.tex的作用就是将你分散在多个文件中的内容“整合”成一篇完整的论文。
+使用这个模板撰写学位论文时，你的学位论文内容和素材会被“拆散”到各个文件中：
+譬如各章正文、各个附录、各章参考文献等等。
+在thesis.tex中通过“include”命令将论文的各个部分包含进来，从而形成一篇结构完成的论文。
+对模板定制时引入的宏包，建议放在导言区。
+
+\subsubsection{各章源文件tex}
+\label{sec:thesisbody}
+
+这一部分是论文的主体，是以“章”为单位划分的，包括：
+
+\begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt]
+	\item 中英文摘要(abstract.tex)。前言(frontmatter)的其他部分，中英文封面、原创性声明、授权信息在sjtuthesis.cls中定义，不单独分离为tex文件。
+不单独弄成文件。
+	\item 正文(mainmatter)——学位论文正文的各章内容，源文件是chapter\emph{xxx}.tex。
+	\item 附录(app\emph{xx}.tex)、致谢(thuanks.tex)、攻读学位论文期间发表的学术论文目录(pub.tex)、个人简历(resume.tex)组成正文后的部分(backmatter)。
+参考文献列表由bibtex插入，不作为一个单独的文件。
+\end{itemize}
+
+\subsubsection{图片文件夹figure}
+\label{sec:fig}
+
+figure文件夹放置了需要插入文档中的图片文件(支持PNG/JPG/PDF/EPS格式的图片)，可以在按照章节划分子目录。
+模板文件中使用\verb|\graphicspath|命令定义了图片存储的顶层目录，在插入图片时，顶层目录名“figure”可省略。
+
+\subsubsection{参考文献数据库bib}
+\label{sec:bib}
+
+目前参考文件数据库目录只存放一个参考文件数据库thesis.bib。
+关于参考文献引用，可参考第\ref{chap:example}章中的例子。
