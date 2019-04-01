@@ -220,7 +220,7 @@
 %==========
 
 %% 行距缩放因子
-\linespread{1.3}
+\linespread{1}
 
 %% CTeX Settings
 % 名称：目录、表格索引、插图索引、算法、算法索引、代码
@@ -239,7 +239,7 @@
     afterskip    = {12\p@},
   },
   section={%
-    format       = \zihao{4}\bfseries\heiti,
+    format       = \zihao{4}\heiti,
     afterindent  = true,
     afterskip    = {1.0ex \@plus .2ex},
     indent       = {2\ccwd},

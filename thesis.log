@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2019.3.25)  25 MAR 2019 05:23
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2019.3.26)  1 APR 2019 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3215,12 +3215,12 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 File: figure/sjtubanner.pdf Graphic file (type pdf)
 <use figure/sjtubanner.pdf>
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 17.
+(Font)              scaled to size 9.03374pt on input line 19.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <9.03374> not available
 
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 9.03374pt on input line 17.
+(Font)              scaled to size 9.03374pt on input line 19.
 [1
 
 
@@ -3236,11 +3236,6 @@ e
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.05249pt on input line 25.
-File: figure/sjtubanner.pdf Graphic file (type pdf)
-<use figure/sjtubanner.pdf>
-[3
-
-]
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12.045> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
@@ -3248,25 +3243,27 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 )
 File: figure/sjtubanner.pdf Graphic file (type pdf)
 <use figure/sjtubanner.pdf>
-[4] (./thesis.toc
+[3
+
+] [4
+
+
+] (./thesis.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.53937> not availabl
 e
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.53937pt on input line 4.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.0pt on input line 15.
-)
-\tf@toc=\write7
-\openout7 = `thesis.toc'.
-
+(Font)              scaled to size 7.0pt on input line 16.
 File: figure/sjtubanner.pdf Graphic file (type pdf)
 <use figure/sjtubanner.pdf>
 [5
 
+])
+\tf@toc=\write7
+\openout7 = `thesis.toc'.
 
-
-]
 File: figure/sjtubanner.pdf Graphic file (type pdf)
 <use figure/sjtubanner.pdf>
 [6]
@@ -3279,7 +3276,7 @@ File: figure/sjtubanner.pdf Graphic file (type pdf)
 (./tex/intro.tex
 第一章
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.53937pt on input line 12.
+(Font)              scaled to size 10.53937pt on input line 36.
 File: figure/sjtubanner.pdf Graphic file (type pdf)
 <use figure/sjtubanner.pdf>
 [1
@@ -3288,22 +3285,22 @@ File: figure/sjtubanner.pdf Graphic file (type pdf)
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.52812pt on input line 37.
+(Font)              scaled to size 7.52812pt on input line 41.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.52812pt on input line 37.
+(Font)              scaled to size 7.52812pt on input line 41.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 6.77525pt on input line 37.
+(Font)              scaled to size 6.77525pt on input line 41.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.52812pt on input line 37.
+(Font)              scaled to size 7.52812pt on input line 41.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.0pt on input line 37.
+(Font)              scaled to size 5.0pt on input line 41.
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
 * Font 'FandolFang-Regular' does not contain script 'CJK'.
 *************************************************
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 58.
+(Font)              scaled to size 10.53937pt on input line 62.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -3316,7 +3313,7 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 58.
+(Font)              scaled to size 9.03374pt on input line 62.
 File: figure/sjtubanner.pdf Graphic file (type pdf)
 <use figure/sjtubanner.pdf>
 [2]
@@ -3590,7 +3587,7 @@ sh_abstract.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 124.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8EA4D90AC025B829161771F20B784B81.
+(rerunfilecheck)             Checksum: ACE70CD94F3BA9488FBA098F5F4C97AC.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -3599,12 +3596,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54225 strings out of 494919
- 1104847 string characters out of 6177301
- 1630381 words of memory out of 5000000
- 57114 multiletter control sequences out of 15000+600000
- 709732 words of font info for 305 fonts, out of 8000000 for 9000
+ 54222 strings out of 494919
+ 1104747 string characters out of 6177301
+ 1630371 words of memory out of 5000000
+ 57112 multiletter control sequences out of 15000+600000
+ 709724 words of font info for 304 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  62i,17n,94p,937b,5044s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.xdv (40 pages, 401124 bytes).
+Output written on thesis.xdv (40 pages, 400524 bytes).

@@ -691,15 +691,14 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT figure/sjtubanner.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
-INPUT figure/sjtubanner.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT figure/sjtubanner.pdf
 INPUT thesis.toc
 INPUT thesis.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
-OUTPUT thesis.toc
 INPUT figure/sjtubanner.pdf
+OUTPUT thesis.toc
 INPUT figure/sjtubanner.pdf
 OUTPUT tex/intro.aux
 INPUT tex/intro.tex

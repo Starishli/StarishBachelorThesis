@@ -87,8 +87,8 @@
       \strng{authorbibnamehash}{3f949ec31b2f0e1410ab16a1ce8bdc35}
       \strng{authornamehash}{e1d084c56158dfee9130597cc682be4b}
       \strng{authorfullhash}{3f949ec31b2f0e1410ab16a1ce8bdc35}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Applied Physics Letters}
@@ -142,8 +142,8 @@
       \strng{authorbibnamehash}{f7feb41fb3c85aacb9a5f3c9b1d28db1}
       \strng{authornamehash}{99ec6caddeb86ff527b682f7db943368}
       \strng{authorfullhash}{885bb1f0886f724c7cfdec6961777a56}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{the 10th European PVM/MPI Users' Group Conference}
@@ -185,8 +185,8 @@
       \strng{authorbibnamehash}{5beddfed2a9a711d7c19a1b972ca0250}
       \strng{authornamehash}{ebe0c20c470de8e16dffe6bf6a9e044d}
       \strng{authorfullhash}{5beddfed2a9a711d7c19a1b972ca0250}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -217,8 +217,8 @@
       \strng{authorbibnamehash}{a0f8671e1c021f9a2ec0e714e048044e}
       \strng{authornamehash}{a0f8671e1c021f9a2ec0e714e048044e}
       \strng{authorfullhash}{a0f8671e1c021f9a2ec0e714e048044e}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -253,8 +253,8 @@
       \strng{authorbibnamehash}{5bde7740f39e9feac08487ec40970e1e}
       \strng{authornamehash}{5bde7740f39e9feac08487ec40970e1e}
       \strng{authorfullhash}{5bde7740f39e9feac08487ec40970e1e}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -299,8 +299,8 @@
       \strng{authorbibnamehash}{5bd9313cfc6de360b5ccf3d334807a5a}
       \strng{authornamehash}{e1d084c56158dfee9130597cc682be4b}
       \strng{authorfullhash}{c37e3978e051ec8bd93fbe55e562d0ee}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physical Review Letters}
@@ -365,8 +365,8 @@
       \strng{editorbibnamehash}{ac3b1641dc986a28e40ae6b0ac6f53c7}
       \strng{editornamehash}{ac3b1641dc986a28e40ae6b0ac6f53c7}
       \strng{editorfullhash}{ac3b1641dc986a28e40ae6b0ac6f53c7}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Advances in Cryptology ({CRYPTO}~'99)}
@@ -415,8 +415,8 @@
       \strng{authorbibnamehash}{35bb91ff606e9f3f95493608483409c3}
       \strng{authornamehash}{ddbd7aea9e99ec0275fdf0f7024ef9bf}
       \strng{authorfullhash}{f805963ba6e890904fa77805c4227ad8}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{第~$N$~次华山论剑}
@@ -453,8 +453,8 @@
       \strng{authorbibnamehash}{6105585c555fccb87d78d94be4842e83}
       \strng{authornamehash}{6105585c555fccb87d78d94be4842e83}
       \strng{authorfullhash}{6105585c555fccb87d78d94be4842e83}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -486,8 +486,8 @@
       \strng{authorbibnamehash}{123ccc47ad74b8f4e6906a4f28ee0d0e}
       \strng{authornamehash}{123ccc47ad74b8f4e6906a4f28ee0d0e}
       \strng{authorfullhash}{123ccc47ad74b8f4e6906a4f28ee0d0e}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -522,8 +522,8 @@
       \strng{authorbibnamehash}{6c79b4d2fa53538347e4a5f171a1cd36}
       \strng{authornamehash}{6c79b4d2fa53538347e4a5f171a1cd36}
       \strng{authorfullhash}{6c79b4d2fa53538347e4a5f171a1cd36}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -555,8 +555,8 @@
       \strng{authorbibnamehash}{0e68fa9b72078f5bfa16728621030a03}
       \strng{authornamehash}{0e68fa9b72078f5bfa16728621030a03}
       \strng{authorfullhash}{0e68fa9b72078f5bfa16728621030a03}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -613,8 +613,8 @@
       \strng{authorbibnamehash}{d612d1522527164cdbeb9e7b9b91cb6c}
       \strng{authornamehash}{2a8e85a5c3878529e0be9909c3e8cdd4}
       \strng{authorfullhash}{964f274815d873ed0f7795fe5f0adab1}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
