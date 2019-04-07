@@ -1,0 +1,18 @@
+\begin{tikzpicture}[node distance=1.5cm]
+    \node (intro) [process] {问题提出};
+    \node (bib)  [process, below of=intro] {文献综述};
+    \node (method) [process, below of=bib] {模拟及动态对冲方法介绍};
+    \node (sim) [process, below of=method] {模拟研究};
+    \node (empirical) [process, below of=sim] {实证分析};
+    \node (compare) [process, below of=empirical] {模拟结果和实证结果对比分析};
+    \node (conclusion) [process, below of=compare] {总结与展望};
+
+    %连接具体形状
+    \draw [arrow](intro) -- (bib);
+    \draw [arrow](bib) -- (method);
+    \draw [arrow](method) -- (sim);
+    \draw [arrow](sim) -- (empirical);
+    \draw [arrow](empirical) -- (compare);
+    \draw [arrow](compare) -- (conclusion);
+
+\end{tikzpicture}

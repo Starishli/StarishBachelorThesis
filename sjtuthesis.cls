@@ -274,20 +274,20 @@
 \DeclareGraphicsExtensions{.pdf,.eps,.png,.jpg,.jpeg}
 
 % Caption setting in caption and bicaption pacakge
-\DeclareCaptionFont{kaishu}{\kaishu}
-\captionsetup{format=plain,labelformat=simple,labelsep=space,justification=centering,font={small,kaishu}}
+\DeclareCaptionFont{normalfont}{\songti}
+\captionsetup{format=plain,labelformat=simple,labelsep=space,justification=centering,font={bf,normalfont}}
 \captionsetup[bi-first]{bi-first}
-\captionsetup[bi-second]{bi-second}
+% \captionsetup[bi-second]{bi-second}
 \captionsetup[sub]{font=footnotesize}
 
 \DeclareCaptionOption{bi-first}[]{%
     \def\tablename{\sjtu@tablename}
     \def\figurename{\sjtu@figurename}
 }
-\DeclareCaptionOption{bi-second}[]{%
-    \def\tablename{Table}
-    \def\figurename{Figure}
-}
+% \DeclareCaptionOption{bi-second}[]{%
+%     \def\tablename{Table}
+%     \def\figurename{Figure}
+% }
 
 % Set fontnote font size in threeparttable
 \appto\TPTnoteSettings{\footnotesize}
