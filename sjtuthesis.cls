@@ -251,7 +251,7 @@
     indent       = {2\ccwd},
   },
   subsubsection={%
-    format       = \zihao{-4}\normalsize\normalfont,
+    format       = \zihao{-4}\normalfont,
     afterindent  = true,
     afterskip    = {1.0ex \@plus .2ex},
     indent       = {2\ccwd},
