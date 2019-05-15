@@ -16,5 +16,1101 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{basak2012dynamic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=462c58c3701ffe0bf4ac89d70d5592c7}{%
+           family={Basak},
+           familyi={B\bibinitperiod},
+           given={Suleyman},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e82e30c7caa5556c9dfef9d4a1c07f9f}{%
+           family={Chabakauri},
+           familyi={C\bibinitperiod},
+           given={Georgy},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f5fb4dbdc0ee7b637594d7b024f200cc}
+      \strng{fullhash}{dc23842cbee61ca3fa132bded49978b3}
+      \strng{bibnamehash}{dc23842cbee61ca3fa132bded49978b3}
+      \strng{authorbibnamehash}{dc23842cbee61ca3fa132bded49978b3}
+      \strng{authornamehash}{f5fb4dbdc0ee7b637594d7b024f200cc}
+      \strng{authorfullhash}{dc23842cbee61ca3fa132bded49978b3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The review of financial studies}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{Dynamic hedging in incomplete markets: a simple solution}
+      \field{usera}{J}
+      \field{volume}{25}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{1845\bibrangedash 1896}
+      \range{pages}{52}
+      \keyw{basak2012dynamic}
+    \endentry
+    \entry{black1976pricing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=93277dfc1ebe8d44428e74799781e4d7}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Fischer},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{93277dfc1ebe8d44428e74799781e4d7}
+      \strng{fullhash}{93277dfc1ebe8d44428e74799781e4d7}
+      \strng{bibnamehash}{93277dfc1ebe8d44428e74799781e4d7}
+      \strng{authorbibnamehash}{93277dfc1ebe8d44428e74799781e4d7}
+      \strng{authornamehash}{93277dfc1ebe8d44428e74799781e4d7}
+      \strng{authorfullhash}{93277dfc1ebe8d44428e74799781e4d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of financial economics}
+      \field{langid}{english}
+      \field{number}{1-2}
+      \field{title}{The pricing of commodity contracts}
+      \field{usera}{J}
+      \field{volume}{3}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{167\bibrangedash 179}
+      \range{pages}{13}
+      \keyw{black1976pricing}
+    \endentry
+    \entry{black1973pricing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=93277dfc1ebe8d44428e74799781e4d7}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Fischer},
+           giveni={F\bibinitperiod}}}%
+        {{hash=301bb16d9f303a488dac1c73931c0eff}{%
+           family={Scholes},
+           familyi={S\bibinitperiod},
+           given={Myron},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{98d9337bc345dc3932ef9db0633825e1}
+      \strng{fullhash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{bibnamehash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{authorbibnamehash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \strng{authornamehash}{98d9337bc345dc3932ef9db0633825e1}
+      \strng{authorfullhash}{0bcdbf94b820ddcda24f3e8d73d9a4ec}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of political economy}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{The pricing of options and corporate liabilities}
+      \field{usera}{J}
+      \field{volume}{81}
+      \field{year}{1973}
+      \field{dateera}{ce}
+      \field{pages}{637\bibrangedash 654}
+      \range{pages}{18}
+      \keyw{black1973pricing}
+    \endentry
+    \entry{boyle1992option}{article}{}
+      \name{author}{2}{}{%
+        {{hash=024fbfcb0c2871b9963fa5f836857fc2}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Phelim\bibnamedelima P},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=05a50211cfe746bbb90719b757692465}{%
+           family={Vorst},
+           familyi={V\bibinitperiod},
+           given={Ton},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0da50600aa4125db2e4331f7ea515c5e}
+      \strng{fullhash}{05a27791a46eaded9150b7c5d7655151}
+      \strng{bibnamehash}{05a27791a46eaded9150b7c5d7655151}
+      \strng{authorbibnamehash}{05a27791a46eaded9150b7c5d7655151}
+      \strng{authornamehash}{0da50600aa4125db2e4331f7ea515c5e}
+      \strng{authorfullhash}{05a27791a46eaded9150b7c5d7655151}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Finance}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Option replication in discrete time with transaction costs}
+      \field{usera}{J}
+      \field{volume}{47}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{271\bibrangedash 293}
+      \range{pages}{23}
+      \keyw{boyle1992option}
+    \endentry
+    \entry{caflisch1998monte}{article}{}
+      \name{author}{1}{}{%
+        {{hash=629a4d9bb8edc8afd2891ae311c60df1}{%
+           family={Caflisch},
+           familyi={C\bibinitperiod},
+           given={Russel\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{629a4d9bb8edc8afd2891ae311c60df1}
+      \strng{fullhash}{629a4d9bb8edc8afd2891ae311c60df1}
+      \strng{bibnamehash}{629a4d9bb8edc8afd2891ae311c60df1}
+      \strng{authorbibnamehash}{629a4d9bb8edc8afd2891ae311c60df1}
+      \strng{authornamehash}{629a4d9bb8edc8afd2891ae311c60df1}
+      \strng{authorfullhash}{629a4d9bb8edc8afd2891ae311c60df1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta numerica}
+      \field{langid}{english}
+      \field{title}{Monte carlo and quasi-monte carlo methods}
+      \field{usera}{J}
+      \field{volume}{7}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 49}
+      \range{pages}{49}
+      \keyw{caflisch1998monte}
+    \endentry
+    \entry{darses:hal-00467704}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=c7ca743fd09d33cfd4836cfebf5646d1}{%
+           family={Darses},
+           familyi={D\bibinitperiod},
+           given={Sebastien},
+           giveni={S\bibinitperiod}}}%
+        {{hash=673d069e8b0b220dcbdc661f6db8741a}{%
+           family={Denis},
+           familyi={D\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{39137db78216e58c38bf15ee1846844c}
+      \strng{fullhash}{86824b482040813406eba23f239dc344}
+      \strng{bibnamehash}{86824b482040813406eba23f239dc344}
+      \strng{authorbibnamehash}{86824b482040813406eba23f239dc344}
+      \strng{authornamehash}{39137db78216e58c38bf15ee1846844c}
+      \strng{authorfullhash}{86824b482040813406eba23f239dc344}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{note}{working paper or preprint}
+      \field{title}{{Limit Theorem for a Modified Leland Hedging Strategy under Constant Transaction Costs rate}}
+      \field{usera}{Z}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb https://hal.archives-ouvertes.fr/hal-00467704/file/dd_lel_final.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.archives-ouvertes.fr/hal-00467704
+      \endverb
+      \verb{url}
+      \verb https://hal.archives-ouvertes.fr/hal-00467704
+      \endverb
+      \keyw{Martingale limit theorem ; Asymptotic hedging ; Leland-Lott strategy ; Transaction costs ; Martingale limit theorem.,working paper or preprint}
+    \endentry
+    \entry{davis1993european}{article}{}
+      \name{author}{3}{}{%
+        {{hash=36f2b0fd7aba370094c153bf7170244e}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Mark\bibnamedelima HA},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=de14694c22944d7d3eef45707bcf344d}{%
+           family={Panas},
+           familyi={P\bibinitperiod},
+           given={Vassilios\bibnamedelima G},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=2f7e26577ec2d73446d68908ece88a7b}{%
+           family={Zariphopoulou},
+           familyi={Z\bibinitperiod},
+           given={Thaleia},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{2babc363f33d10f7f5cab6440e7d08b4}
+      \strng{fullhash}{7630178477b8866fc8993a4546ad2170}
+      \strng{bibnamehash}{7630178477b8866fc8993a4546ad2170}
+      \strng{authorbibnamehash}{7630178477b8866fc8993a4546ad2170}
+      \strng{authornamehash}{2babc363f33d10f7f5cab6440e7d08b4}
+      \strng{authorfullhash}{7630178477b8866fc8993a4546ad2170}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on Control and Optimization}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{European option pricing with transaction costs}
+      \field{usera}{J}
+      \field{volume}{31}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{470\bibrangedash 493}
+      \range{pages}{24}
+      \keyw{davis1993european}
+    \endentry
+    \entry{garman1983foreign}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8cf3656c019168011a8cb6109c82de40}{%
+           family={Garman},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ed0a31eebf0f1f98f1bcb7d62f134cba}{%
+           family={Kohlhagen},
+           familyi={K\bibinitperiod},
+           given={Steven\bibnamedelima W},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{83fca5b06396fbba29a3ea99bdf43ef3}
+      \strng{fullhash}{05fd2004ae2c3fe29e6e5c89648a1696}
+      \strng{bibnamehash}{05fd2004ae2c3fe29e6e5c89648a1696}
+      \strng{authorbibnamehash}{05fd2004ae2c3fe29e6e5c89648a1696}
+      \strng{authornamehash}{83fca5b06396fbba29a3ea99bdf43ef3}
+      \strng{authorfullhash}{05fd2004ae2c3fe29e6e5c89648a1696}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of international Money and Finance}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{Foreign currency option values}
+      \field{usera}{J}
+      \field{volume}{2}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{pages}{231\bibrangedash 237}
+      \range{pages}{7}
+      \keyw{garman1983foreign}
+    \endentry
+    \entry{hodges1989optimal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f979ac72c4063a9482253710348967ac}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={SD},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a35d7eddd02a7f3414e77f4b00ed9545}{%
+           family={Neuberger},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{5f22b7c6100e1f19c8cea18f3d827db1}
+      \strng{fullhash}{6384378f78708c86c28adfcd67cdb92c}
+      \strng{bibnamehash}{6384378f78708c86c28adfcd67cdb92c}
+      \strng{authorbibnamehash}{6384378f78708c86c28adfcd67cdb92c}
+      \strng{authornamehash}{5f22b7c6100e1f19c8cea18f3d827db1}
+      \strng{authorfullhash}{6384378f78708c86c28adfcd67cdb92c}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Futures Markets}
+      \field{langid}{english}
+      \field{title}{Optimal replication of contingent claims under portfolio constraints}
+      \field{usera}{J}
+      \field{volume}{8}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{222\bibrangedash 239}
+      \range{pages}{18}
+      \keyw{hodges1989optimal}
+    \endentry
+    \entry{hull2017optimal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8eb46e2417b472d17c974e4c3bc21987}{%
+           family={Hull},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=46972b2421a0750ab7f87316d6355570}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ce8d5a38581e9584771c1543b990ba4b}
+      \strng{fullhash}{6cf2f2c1f3183acd87195d7dc5af9158}
+      \strng{bibnamehash}{6cf2f2c1f3183acd87195d7dc5af9158}
+      \strng{authorbibnamehash}{6cf2f2c1f3183acd87195d7dc5af9158}
+      \strng{authornamehash}{ce8d5a38581e9584771c1543b990ba4b}
+      \strng{authorfullhash}{6cf2f2c1f3183acd87195d7dc5af9158}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Banking \& Finance}
+      \field{langid}{english}
+      \field{title}{Optimal delta hedging for options}
+      \field{usera}{J}
+      \field{volume}{82}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{180\bibrangedash 190}
+      \range{pages}{11}
+      \keyw{hull2017optimal}
+    \endentry
+    \entry{kabanov1997leland}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b8b90be0320effa5042a23c46f620407}{%
+           family={Kabanov},
+           familyi={K\bibinitperiod},
+           given={Yuri\bibnamedelima M},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=477a3fda31cde6d841fe72ac3358f252}{%
+           family={Safarian},
+           familyi={S\bibinitperiod},
+           given={Mher\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{52ed9e1b705d2e5e536896171c81c030}
+      \strng{fullhash}{7df211f515a88703ae879dd34d812ba6}
+      \strng{bibnamehash}{7df211f515a88703ae879dd34d812ba6}
+      \strng{authorbibnamehash}{7df211f515a88703ae879dd34d812ba6}
+      \strng{authornamehash}{52ed9e1b705d2e5e536896171c81c030}
+      \strng{authorfullhash}{7df211f515a88703ae879dd34d812ba6}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Finance and Stochastics}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{On Leland's strategy of option pricing with transactions costs}
+      \field{usera}{J}
+      \field{volume}{1}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{pages}{239\bibrangedash 250}
+      \range{pages}{12}
+      \keyw{kabanov1997leland}
+    \endentry
+    \entry{leland1985option}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6aec391e96a7d7c03ca9ebe44b609129}{%
+           family={Leland},
+           familyi={L\bibinitperiod},
+           given={Hayne\bibnamedelima E},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{6aec391e96a7d7c03ca9ebe44b609129}
+      \strng{fullhash}{6aec391e96a7d7c03ca9ebe44b609129}
+      \strng{bibnamehash}{6aec391e96a7d7c03ca9ebe44b609129}
+      \strng{authorbibnamehash}{6aec391e96a7d7c03ca9ebe44b609129}
+      \strng{authornamehash}{6aec391e96a7d7c03ca9ebe44b609129}
+      \strng{authorfullhash}{6aec391e96a7d7c03ca9ebe44b609129}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The journal of finance}
+      \field{langid}{english}
+      \field{number}{5}
+      \field{title}{Option pricing and replication with transactions costs}
+      \field{usera}{J}
+      \field{volume}{40}
+      \field{year}{1985}
+      \field{dateera}{ce}
+      \field{pages}{1283\bibrangedash 1301}
+      \range{pages}{19}
+      \keyw{leland1985option}
+    \endentry
+    \entry{mackenzie2008engine}{book}{}
+      \name{author}{1}{}{%
+        {{hash=113d0ca769fffb9092cc606131878921}{%
+           family={MacKenzie},
+           familyi={M\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Mit Press}%
+      }
+      \strng{namehash}{113d0ca769fffb9092cc606131878921}
+      \strng{fullhash}{113d0ca769fffb9092cc606131878921}
+      \strng{bibnamehash}{113d0ca769fffb9092cc606131878921}
+      \strng{authorbibnamehash}{113d0ca769fffb9092cc606131878921}
+      \strng{authornamehash}{113d0ca769fffb9092cc606131878921}
+      \strng{authorfullhash}{113d0ca769fffb9092cc606131878921}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{An engine, not a camera: How financial models shape markets}
+      \field{usera}{M}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \keyw{mackenzie2008engine}
+    \endentry
+    \entry{pergamenshchikov2003limit}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=66a38c068346173faa62cbb771d02402}{%
+           family={Pergamenshchikov},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \strng{namehash}{9fbb5cdf4e6f1cabaf7af014cd80b879}
+      \strng{fullhash}{9fbb5cdf4e6f1cabaf7af014cd80b879}
+      \strng{bibnamehash}{9fbb5cdf4e6f1cabaf7af014cd80b879}
+      \strng{authorbibnamehash}{9fbb5cdf4e6f1cabaf7af014cd80b879}
+      \strng{authornamehash}{9fbb5cdf4e6f1cabaf7af014cd80b879}
+      \strng{authorfullhash}{9fbb5cdf4e6f1cabaf7af014cd80b879}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Applied Probability}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{Limit theorem for Leland's strategy}
+      \field{usera}{J}
+      \field{volume}{13}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{pages}{1099\bibrangedash 1118}
+      \range{pages}{20}
+      \keyw{pergamenshchikov2003limit}
+    \endentry
+    \entry{poon2003forecasting}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4bc47a55acee6ff20185e96bafcdd26b}{%
+           family={Poon},
+           familyi={P\bibinitperiod},
+           given={Ser-Huang},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=00e6bf5c617f090fc547d4a5a8a11d00}{%
+           family={Granger},
+           familyi={G\bibinitperiod},
+           given={Clive\bibnamedelima WJ},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{619424faf5246803f2781415af2df498}
+      \strng{fullhash}{19a3301038a9c1ac842145a1dec01bc5}
+      \strng{bibnamehash}{19a3301038a9c1ac842145a1dec01bc5}
+      \strng{authorbibnamehash}{19a3301038a9c1ac842145a1dec01bc5}
+      \strng{authornamehash}{619424faf5246803f2781415af2df498}
+      \strng{authorfullhash}{19a3301038a9c1ac842145a1dec01bc5}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of economic literature}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Forecasting volatility in financial markets: A review}
+      \field{usera}{J}
+      \field{volume}{41}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{pages}{478\bibrangedash 539}
+      \range{pages}{62}
+      \keyw{poon2003forecasting}
+    \endentry
+    \entry{sepp2013you}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7b8aae86da99c094106e0bf492f933ce}{%
+           family={Sepp},
+           familyi={S\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{7b8aae86da99c094106e0bf492f933ce}
+      \strng{fullhash}{7b8aae86da99c094106e0bf492f933ce}
+      \strng{bibnamehash}{7b8aae86da99c094106e0bf492f933ce}
+      \strng{authorbibnamehash}{7b8aae86da99c094106e0bf492f933ce}
+      \strng{authornamehash}{7b8aae86da99c094106e0bf492f933ce}
+      \strng{authorfullhash}{7b8aae86da99c094106e0bf492f933ce}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Investment Strategies}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{When you hedge discretely: Optimization of sharpe ratio for delta-hedging strategy under discrete hedging and transaction costs}
+      \field{usera}{J}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{19\bibrangedash 59}
+      \range{pages}{41}
+      \keyw{sepp2013you}
+    \endentry
+    \entry{shokrollahi2017hedging}{article}{}
+      \name{author}{2}{}{%
+        {{hash=36a93d552f52deece9bc1a9562737b13}{%
+           family={Shokrollahi},
+           familyi={S\bibinitperiod},
+           given={Foad},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7ff35e0024963f864c615e1409775144}{%
+           family={Sottinen},
+           familyi={S\bibinitperiod},
+           given={Tommi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{29628086d2345126541b7516d92cfb10}
+      \strng{fullhash}{1dcb651b5ab0e8740cafd80c9b23cc7d}
+      \strng{bibnamehash}{1dcb651b5ab0e8740cafd80c9b23cc7d}
+      \strng{authorbibnamehash}{1dcb651b5ab0e8740cafd80c9b23cc7d}
+      \strng{authornamehash}{29628086d2345126541b7516d92cfb10}
+      \strng{authorfullhash}{1dcb651b5ab0e8740cafd80c9b23cc7d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics \& Probability Letters}
+      \field{langid}{english}
+      \field{title}{Hedging in fractional Black--Scholes model with transaction costs}
+      \field{usera}{J}
+      \field{volume}{130}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{85\bibrangedash 91}
+      \range{pages}{7}
+      \keyw{shokrollahi2017hedging}
+    \endentry
+    \entry{sottinen2017prediction}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7ff35e0024963f864c615e1409775144}{%
+           family={Sottinen},
+           familyi={S\bibinitperiod},
+           given={Tommi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d856cbfd083e7eb354599086a163916d}{%
+           family={Viitasaari},
+           familyi={V\bibinitperiod},
+           given={Lauri},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0f12c7c85a7097cb454dc343c826ccfa}
+      \strng{fullhash}{aa2843d490040a8dfad63d1c187b59d5}
+      \strng{bibnamehash}{aa2843d490040a8dfad63d1c187b59d5}
+      \strng{authorbibnamehash}{aa2843d490040a8dfad63d1c187b59d5}
+      \strng{authornamehash}{0f12c7c85a7097cb454dc343c826ccfa}
+      \strng{authorfullhash}{aa2843d490040a8dfad63d1c187b59d5}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics \& Probability Letters}
+      \field{langid}{english}
+      \field{title}{Prediction law of fractional Brownian motion}
+      \field{usera}{J}
+      \field{volume}{129}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{155\bibrangedash 166}
+      \range{pages}{12}
+      \keyw{sottinen2017prediction}
+    \endentry
+    \entry{taleb1997dynamic}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=f38a496ab2b16ee85e5d4407bf792278}{%
+           family={Taleb},
+           familyi={T\bibinitperiod},
+           given={Nassim},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{49393a5bac29f823176f3c0fffce8081}
+      \strng{fullhash}{49393a5bac29f823176f3c0fffce8081}
+      \strng{bibnamehash}{49393a5bac29f823176f3c0fffce8081}
+      \strng{authorbibnamehash}{49393a5bac29f823176f3c0fffce8081}
+      \strng{authornamehash}{49393a5bac29f823176f3c0fffce8081}
+      \strng{authorfullhash}{49393a5bac29f823176f3c0fffce8081}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Dynamic hedging: managing vanilla and exotic options}
+      \field{usera}{M}
+      \field{volume}{64}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \keyw{taleb1997dynamic}
+    \endentry
+    \entry{wang2008low}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3ce415b10748876a798ffc9fe0fcaad7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoqun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3005ab3a4bde5b3c18c64bd340e88807}{%
+           family={Sloan},
+           familyi={S\bibinitperiod},
+           given={Ian\bibnamedelima H},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{08da3ed85b832a7f91ba0917c19a77b2}
+      \strng{fullhash}{1e424f480a6d02d207fbaf285184520d}
+      \strng{bibnamehash}{1e424f480a6d02d207fbaf285184520d}
+      \strng{authorbibnamehash}{1e424f480a6d02d207fbaf285184520d}
+      \strng{authornamehash}{08da3ed85b832a7f91ba0917c19a77b2}
+      \strng{authorfullhash}{1e424f480a6d02d207fbaf285184520d}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational and Applied Mathematics}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Low discrepancy sequences in high dimensions: How well are their projections distributed?}
+      \field{usera}{J}
+      \field{volume}{213}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{366\bibrangedash 386}
+      \range{pages}{21}
+      \keyw{wang2008low}
+    \endentry
+    \entry{whalley1997asymptotic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3c4ab5a2318f9e7a15e82ad73a5c3ae0}{%
+           family={Whalley},
+           familyi={W\bibinitperiod},
+           given={A\bibnamedelima Elizabeth},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=b4eae05c5ac84581289f65180c29143e}{%
+           family={Wilmott},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{90afcb2ba690ca2dc226c4f3bfe73786}
+      \strng{fullhash}{e30eac8fdb7b0fab1983fb55354e41a2}
+      \strng{bibnamehash}{e30eac8fdb7b0fab1983fb55354e41a2}
+      \strng{authorbibnamehash}{e30eac8fdb7b0fab1983fb55354e41a2}
+      \strng{authornamehash}{90afcb2ba690ca2dc226c4f3bfe73786}
+      \strng{authorfullhash}{e30eac8fdb7b0fab1983fb55354e41a2}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Finance}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{An asymptotic analysis of an optimal hedging model for option pricing with transaction costs}
+      \field{usera}{J}
+      \field{volume}{7}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{pages}{307\bibrangedash 324}
+      \range{pages}{18}
+      \keyw{whalley1997asymptotic}
+    \endentry
+    \entry{wjb2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f53bd514d8b4161a4d797b98a35a74da}{%
+           family={卫剑波},
+           familyi={卫\bibinitperiod}}}%
+        {{hash=7a53383a38a31bf1fdc13968a2402145}{%
+           family={王琦},
+           familyi={王\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{85e0c2274cc322a1e302493baf15176b}
+      \strng{fullhash}{5ca7f4fa3956a3ab13bc4c7222ff228b}
+      \strng{bibnamehash}{5ca7f4fa3956a3ab13bc4c7222ff228b}
+      \strng{authorbibnamehash}{5ca7f4fa3956a3ab13bc4c7222ff228b}
+      \strng{authornamehash}{85e0c2274cc322a1e302493baf15176b}
+      \strng{authorfullhash}{5ca7f4fa3956a3ab13bc4c7222ff228b}
+      \field{sortinit}{卫}
+      \field{sortinithash}{7aeaec108ad14ac9c8a030c2ee5f14bc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{投资研究}
+      \field{langid}{english}
+      \field{number}{8}
+      \field{title}{沪深300指数香草期权的动态对冲}
+      \field{usera}{J}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{volume}{33}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{125\bibrangedash 138}
+      \range{pages}{14}
+      \keyw{wjb2014}
+    \endentry
+    \entry{zwg2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8988e76bd88e53f29639cffd35246b14}{%
+           family={张卫国},
+           familyi={张\bibinitperiod}}}%
+        {{hash=13207479dd61e262af1c196ef42d3efa}{%
+           family={杜谦},
+           familyi={杜\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{0ed15f4ca0d082e901afe12ef24c2459}
+      \strng{fullhash}{e0aa4d734c62a5e6216ea71a508d2246}
+      \strng{bibnamehash}{e0aa4d734c62a5e6216ea71a508d2246}
+      \strng{authorbibnamehash}{e0aa4d734c62a5e6216ea71a508d2246}
+      \strng{authornamehash}{0ed15f4ca0d082e901afe12ef24c2459}
+      \strng{authorfullhash}{e0aa4d734c62a5e6216ea71a508d2246}
+      \field{sortinit}{张}
+      \field{sortinithash}{5224dd6ea8d67d595848333a2165db73}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{华南理工大学学报(社会科学版)}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{title}{基于随机模型预测控制的欧式期权动态对冲研究}
+      \field{usera}{J}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{volume}{18}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \keyw{zwg2016}
+    \endentry
+    \entry{zyh2006}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6bc241d4028b9aebd5685cd76a27408c}{%
+           family={张玉红},
+           familyi={张\bibinitperiod}}}%
+        {{hash=d245bcce7afe68df081ce0ddf5a7c2e1}{%
+           family={霍天翔},
+           familyi={霍\bibinitperiod}}}%
+        {{hash=eb5dc4322295fddf5f9df1350ef84572}{%
+           family={冯宗宪},
+           familyi={冯\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{e677a8105ae46f5a4a0a05ddb17193ad}
+      \strng{fullhash}{dadeb85e15a04b1249237b7d91a3f112}
+      \strng{bibnamehash}{dadeb85e15a04b1249237b7d91a3f112}
+      \strng{authorbibnamehash}{dadeb85e15a04b1249237b7d91a3f112}
+      \strng{authornamehash}{e677a8105ae46f5a4a0a05ddb17193ad}
+      \strng{authorfullhash}{dadeb85e15a04b1249237b7d91a3f112}
+      \field{sortinit}{张}
+      \field{sortinithash}{5224dd6ea8d67d595848333a2165db73}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{上海金融}
+      \field{langid}{english}
+      \field{number}{8}
+      \field{title}{场外金融衍生品交易市场的发展探析}
+      \field{usera}{J}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{44\bibrangedash 46}
+      \range{pages}{3}
+      \keyw{zyh2006}
+    \endentry
+    \entry{zc2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=753d21c55da31c2e8c5c9acbc3032ab0}{%
+           family={张程},
+           familyi={张\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \list{publisher}{1}{%
+        {现代管理科学编辑部}%
+      }
+      \strng{namehash}{753d21c55da31c2e8c5c9acbc3032ab0}
+      \strng{fullhash}{753d21c55da31c2e8c5c9acbc3032ab0}
+      \strng{bibnamehash}{753d21c55da31c2e8c5c9acbc3032ab0}
+      \strng{authorbibnamehash}{753d21c55da31c2e8c5c9acbc3032ab0}
+      \strng{authornamehash}{753d21c55da31c2e8c5c9acbc3032ab0}
+      \strng{authorfullhash}{753d21c55da31c2e8c5c9acbc3032ab0}
+      \field{sortinit}{张}
+      \field{sortinithash}{5224dd6ea8d67d595848333a2165db73}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{现代管理科学}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{期权动态风险对冲实证分析}
+      \field{usera}{J}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{volume}{2010}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{72\bibrangedash 74}
+      \range{pages}{3}
+      \keyw{zc2010}
+    \endentry
+    \entry{sw2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=24af86b52fba522322008732e62bdf18}{%
+           family={斯文},
+           familyi={斯\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{24af86b52fba522322008732e62bdf18}
+      \strng{fullhash}{24af86b52fba522322008732e62bdf18}
+      \strng{bibnamehash}{24af86b52fba522322008732e62bdf18}
+      \strng{authorbibnamehash}{24af86b52fba522322008732e62bdf18}
+      \strng{authornamehash}{24af86b52fba522322008732e62bdf18}
+      \strng{authorfullhash}{24af86b52fba522322008732e62bdf18}
+      \field{sortinit}{斯}
+      \field{sortinithash}{f5baa2b32148ea31fa1f25a1aad70b2a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{西部论坛}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{美国场外衍生品市场影响因素分析与启示}
+      \field{usera}{J}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{67\bibrangedash 77}
+      \range{pages}{11}
+      \keyw{sw2012}
+    \endentry
+    \entry{xh2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=eceb85528c50938348eb02c57df4017c}{%
+           family={熊辉},
+           familyi={熊\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {浙江工商大学}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{eceb85528c50938348eb02c57df4017c}
+      \strng{fullhash}{eceb85528c50938348eb02c57df4017c}
+      \strng{bibnamehash}{eceb85528c50938348eb02c57df4017c}
+      \strng{authorbibnamehash}{eceb85528c50938348eb02c57df4017c}
+      \strng{authornamehash}{eceb85528c50938348eb02c57df4017c}
+      \strng{authorfullhash}{eceb85528c50938348eb02c57df4017c}
+      \field{sortinit}{熊}
+      \field{sortinithash}{7829b10bf97d30e3317444c9dba2428a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{场外期权的复制与动态对冲分析——基于玉米期货期权}
+      \field{usera}{D}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \keyw{xh2015}
+    \endentry
+    \entry{jlz2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=977ea1eacd339c10e00f35473ff1fc67}{%
+           family={蒋论政},
+           familyi={蒋\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {浙江工商大学}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{977ea1eacd339c10e00f35473ff1fc67}
+      \strng{fullhash}{977ea1eacd339c10e00f35473ff1fc67}
+      \strng{bibnamehash}{977ea1eacd339c10e00f35473ff1fc67}
+      \strng{authorbibnamehash}{977ea1eacd339c10e00f35473ff1fc67}
+      \strng{authornamehash}{977ea1eacd339c10e00f35473ff1fc67}
+      \strng{authorfullhash}{977ea1eacd339c10e00f35473ff1fc67}
+      \field{sortinit}{蒋}
+      \field{sortinithash}{f2a37fd2f17e12e637b4d076dd9b2508}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{期权定价与动态对冲策略分析}
+      \field{usera}{D}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \keyw{jlz2018}
+    \endentry
+    \entry{wj2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1ae8458c85bd0c1e39f510745b3926c7}{%
+           family={魏洁},
+           familyi={魏\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \list{publisher}{1}{%
+        {现代管理科学编辑部}%
+      }
+      \strng{namehash}{1ae8458c85bd0c1e39f510745b3926c7}
+      \strng{fullhash}{1ae8458c85bd0c1e39f510745b3926c7}
+      \strng{bibnamehash}{1ae8458c85bd0c1e39f510745b3926c7}
+      \strng{authorbibnamehash}{1ae8458c85bd0c1e39f510745b3926c7}
+      \strng{authornamehash}{1ae8458c85bd0c1e39f510745b3926c7}
+      \strng{authorfullhash}{1ae8458c85bd0c1e39f510745b3926c7}
+      \field{sortinit}{魏}
+      \field{sortinithash}{bca00a622a3ebee97507e8b770960c54}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{金融理论与实践}
+      \field{langid}{english}
+      \field{number}{12}
+      \field{title}{现货、股指期货与股指期权套期保值组合的Delta中性动态模拟}
+      \field{usera}{J}
+      \field{userd}{cn}
+      \field{userf}{cn}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{36\bibrangedash 41}
+      \range{pages}{6}
+      \keyw{wj2011}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
